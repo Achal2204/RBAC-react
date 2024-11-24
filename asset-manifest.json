@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Achal2204/RBAC-react/static/css/main.e720359f.css",
-    "main.js": "/Achal2204/RBAC-react/static/js/main.e08e5c15.js",
+    "main.js": "/Achal2204/RBAC-react/static/js/main.fd327f54.js",
     "index.html": "/Achal2204/RBAC-react/index.html",
     "main.e720359f.css.map": "/Achal2204/RBAC-react/static/css/main.e720359f.css.map",
-    "main.e08e5c15.js.map": "/Achal2204/RBAC-react/static/js/main.e08e5c15.js.map"
+    "main.fd327f54.js.map": "/Achal2204/RBAC-react/static/js/main.fd327f54.js.map"
   },
   "entrypoints": [
     "static/css/main.e720359f.css",
-    "static/js/main.e08e5c15.js"
+    "static/js/main.fd327f54.js"
   ]
 }
