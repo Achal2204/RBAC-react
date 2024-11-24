@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Achal2204/RBAC-react.git/static/css/main.e720359f.css",
+    "main.js": "/Achal2204/RBAC-react.git/static/js/main.e08e5c15.js",
+    "index.html": "/Achal2204/RBAC-react.git/index.html",
+    "main.e720359f.css.map": "/Achal2204/RBAC-react.git/static/css/main.e720359f.css.map",
+    "main.e08e5c15.js.map": "/Achal2204/RBAC-react.git/static/js/main.e08e5c15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e720359f.css",
+    "static/js/main.e08e5c15.js"
+  ]
+}
